@@ -6,7 +6,7 @@ The project delivers a responsive, user-friendly, and visually appealing interfa
 ## 🌐 Live Demo  
 
 🚀 Check out the live version here:  
-[https://kaicknasc.github.io/landingpage-next/]🌐
+[Live Demo](https://kaicknasc.github.io/landingpage-next/)
 
 ## 🚀 Technologies
 
